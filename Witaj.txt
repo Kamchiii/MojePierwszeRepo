@@ -1,0 +1,10 @@
+Projekt Testowy dla Gita
+
+To jest plik stworzony, aby pomóc w nauce podstawowych komend Gita.
+
+Wersja 1.0
+
+Kilka prostych linii do śledzenia zmian:
+1. Inicjalizacja projektu.
+2. Dodanie tego opisu.
+3. Testowanie 'git add' i 'git commit'.
